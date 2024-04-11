@@ -1,4 +1,4 @@
-export const BANK_CA = ""
+export const BANK_CA = "0x5a1998a80148e971e1745BE39aea59730abdcBD3"
 
 export const BANK_ABI = [
   {
